@@ -21,7 +21,7 @@ devtools::install_github("mikasip/NonlinearBSS")
 
 ## Data
 
-The case study data are publicly available from Project Tycho (\url{https://www.tycho.pitt.edu/}). The data was constructed from 6 separate datasets, one for each of the considered diseases [1-6]
+The case study data are publicly available from Project Tycho (https://www.tycho.pitt.edu). The data was constructed from 6 separate datasets, one for each of the considered diseases [1-6].
 
 ## References
 
